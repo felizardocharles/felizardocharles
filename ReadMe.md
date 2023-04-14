@@ -1,4 +1,4 @@
-Olá 👋 meu nome é Charles Sá
+Olá 👋 Meu nome é Charles Sá
 ===========================
 
 Full Stack Developer
@@ -6,10 +6,10 @@ Full Stack Developer
 
 Tenho experiência em programação há mais de 12 anos. Conhecimentos sólidos em PHP, Javascript e Laravel. Forte experiência em análise e gestão de projetos.
 
-*   🌍  Resido em Sobral/Ceará/Brasil
-*   ✉️  Entre em contato comigo pelo e-mail [felizardocharles@gmail.com](mailto:felizardocharles@gmail.com)
-*   🧠  Estou me aperfeiçoando em Laravel, TaillWind e VueJS
-*   🤝  Adoraria colaborar em projetos desafiadores### Skills 
+*   🌍  Residente em Sobral/Ceará/Brasil
+*   ✉️  Entre em contato comigo em [felizardocharles@gmail.com](mailto:felizardocharles@gmail.com)
+*   🧠  Me aperfeiçoando em Laravel, TaillWind e VueJS
+*   🤝  Tenho interesse em colaborar com projetos desafiadores### Skills 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
