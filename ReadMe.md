@@ -4,7 +4,13 @@ Olá 👋 Meu nome é Charles Sá
 Full Stack Developer
 --------------------
 
-Tenho experiência em programação há mais de 12 anos. Conhecimentos sólidos em PHP, Javascript e Laravel. Forte experiência em análise e gestão de projetos.
+Desenvolvedor apaixonado por tecnologia e sempre em busca de novas formas de melhorar seu trabalho. Tenho experiência em programação há mais de 12 anos. Conhecimentos sólidos em PHP, Javascript e Laravel. Forte experiência em análise e gestão de projetos.
+
+Além de minhas habilidades em desenvolvimento PHP, banco de dados e gerenciamento de projetos com Scrum, sou muito curioso em relação a novas tecnologias e estou sempre buscando formas de aplicá-las em meus projetos.
+
+Atualmente, estou bastante empolgado com o desenvolvimento no framework Laravel, e tenho dedicado muito tempo a aprimorar minhas habilidades com essa tecnologia.
+
+Com minha pós-graduação focada em Engenharia de Software e minha experiência com gerenciamento de projetos, tenho a habilidade e o conhecimento necessários para liderar equipes de desenvolvimento e garantir que os projetos sejam entregues dentro do prazo e do orçamento.
 
 * 🌍  Residente em Sobral/Ceará/Brasil
 * ✉️  Entre em contato em [felizardocharles@gmail.com](mailto:felizardocharles@gmail.com)
